@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="B_Activity_msg">B 액티비티입니다.</string>
+    <string name="terminateActivity_text">B 액티비티 종료</string>
+    <string name="launchActivity_text">B 액티비티 실행</string>
+</resources>
